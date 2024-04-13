@@ -1,0 +1,13 @@
+images: 
+  - image: /images/quote_batthayany.jpg
+    content_html: "1"
+  - image: /images/quote_dacos.jpg
+    content_html: "2"
+  - image: /images/quote_drachtemam.jpg
+    content_html: "3"
+  - image: /images/quote_galimberti.jpg
+    content_html: "4"
+  - image: /images/quote_manufo.jpg
+    content_html: "5"
+  - image: /images/quote_sandfaer.jpg
+    content_html: "6"
