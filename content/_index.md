@@ -10,6 +10,8 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
+* Wellcome becomes the first UK funder to sign the Barcelona Declaration - [read more](/news/20250804_Wellcome_signs_BD) 
+
 * A national workshop in Milan shows how distributed expertise and collaborative work can drive systemic change - [read more](/news/20250709_university_of_milan_workshop) 
   
 * The Report of the Bologna Meeting on Open Research Information is now available - [read more](/news/20250625_bologna_meeting_report_now_available)
