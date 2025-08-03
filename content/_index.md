@@ -10,7 +10,7 @@ comments = false
 </br>
 {{< /rawhtml >}}
 
-* Wellcome becomes the first UK funder to sign the Barcelona Declaration - [read more](/news/20250804_Wellcome_signs_BD) 
+* Wellcome becomes the first UK funder to sign the Barcelona Declaration - [read more](/news/20250804_wellcome_signs_bd) 
 
 * A national workshop in Milan shows how distributed expertise and collaborative work can drive systemic change - [read more](/news/20250709_university_of_milan_workshop) 
   
