@@ -3,7 +3,7 @@ title = "Wellcome becomes first UK funder to sign the Barcelona Declaration"
 date = 2025-08-04 
 summary = 'On 30 June 2025, Wellcome became the first UK-based research funder to sign the Barcelona Declaration on Open Research Information' 
 comments = false 
-aliases = ["/20250729_YT_channel"]
+aliases = ["/20250804_wellcome_signs_bd"]
 +++
 
 August 04, 2025
