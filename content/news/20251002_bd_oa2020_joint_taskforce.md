@@ -1,8 +1,7 @@
 +++ 
 title = "Barcelona Declaration and OA2020 Launch Joint Task Force on Negotiating Openness of Publication Metadata"
 date = 2025-10-02 
-summary = 'We are excited to announce the launch of a **Joint Task Force on Negotiating Openness of Publication Metadata**, established in partnership between the **Barcelona Declaration on Open Research Information** and the **OA2020 Initiative**.
-This Joint Task Force represents an important step in uniting efforts to bring **greater transparency to scholarly publication metadata**; an essential component of a fair, inclusive, and truly open research ecosystem.' 
+summary = 'We are excited to announce the launch of a **Joint Task Force on Negotiating Openness of Publication Metadata**, established in partnership between the **Barcelona Declaration on Open Research Information** and the **OA2020 Initiative**. This Joint Task Force represents an important step in uniting efforts to bring **greater transparency to scholarly publication metadata**; an essential component of a fair, inclusive, and truly open research ecosystem.' 
 comments = false 
 aliases = ["/20251002_BDOA2020_jointtaskforce"]
 +++
