@@ -1,9 +1,9 @@
 +++ 
-title = "Barcelona Declaration and OA2020 Launch Joint Task Force on Negotiating Openness of Publication Metadata"
+title = "Barcelona Declaration and OA2020 launch Joint Task Force on Negotiating Openness of Publication Metadata"
 date = 2025-10-02 
-summary = 'We are excited to announce the launch of a **Joint Task Force on Negotiating Openness of Publication Metadata**, established in partnership between the **Barcelona Declaration on Open Research Information** and the **OA2020 Initiative**. This Joint Task Force represents an important step in uniting efforts to bring **greater transparency to scholarly publication metadata**; an essential component of a fair, inclusive, and truly open research ecosystem.' 
+summary = 'We are excited to announce the launch of a Joint Task Force on Negotiating Openness of Publication Metadata, established in partnership between the Barcelona Declaration on Open Research Information and the OA2020 Initiative.'
 comments = false 
-aliases = ["/20251002_BDOA2020_jointtaskforce"]
+aliases = ["/20251002_bd_oa2020_joint_taskforce"]
 +++
 
 October 02, 2025
@@ -13,7 +13,7 @@ October 02, 2025
 </br>
 {{< /rawhtml >}}
 
-subtitle = Why this matters?
+###Why this matters?
 Research information and analytics, such as **publication metadata, citation counts, and funding information**, are often locked behind paywalls, creating a “black box” that limits transparency, accountability, and academic sovereignty. These closed systems shape researcher careers and funding decisions without appropriate scrutiny or reproducibility.
 
 Recent discussions, including a well-attended [OA2020 focus session] (https://oa2020.org/2025/09/30/moving-oa-forward-focus-sessions-the-relevance-of-open-research-information/), showed strong community engagement and readiness to act. Building on this momentum, the Joint Task Force will focus on developing **practical strategies for including openness of publication metadata in negotiations between research organizations and scholarly publishers**.
@@ -25,7 +25,7 @@ Recent discussions, including a well-attended [OA2020 focus session] (https://oa
 </br>
 {{< /rawhtml >}}
 
-subtitle = What the Joint Task Force will do
+###What the Joint Task Force will do
 The Joint Task Force will focus initially on developing practical strategies for negotiators to embed openness of metadata into their agreements with publishers. Key activities include: 
 
 - Developing a shared negotiation framework and model clauses
@@ -49,7 +49,7 @@ Through these activities, the Joint Task Force aims to provide **concrete resour
 </br>
 {{< /rawhtml >}}
 
-subtitle = Leadership and scope
+###Leadership and scope
 
 The Joint Task Force is co-chaired by **Miranda Bennett** (California Digital Library) representing OA2020, and **Ludo Waltman** (Leiden University) representing the Barcelona Declaration. Members will be drawn from both the OA2020 and Barcelona Declaration communities, ensuring wide engagement and shared ownership.
 
@@ -61,7 +61,7 @@ Within the Barcelona Declaration, the Joint Task Force is embedded in the **Work
 </br>
 {{< /rawhtml >}}
 
-subtitle = What’s next
+###What’s next
 
 The Joint Task Force is about to begin its work, with phased activities and flexible opportunities for participation. 
 
